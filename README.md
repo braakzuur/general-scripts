@@ -1,5 +1,7 @@
 Must be run as administrator - there is a check for this
 
+This script is for environments that use Configuration Manager (CCM) and are having issues updating bits via Software Center
+
 $MinDays - can be set to whatever value you would like it set to. Set to '0' as this is what was needed in my use case.  can be set to any daily value - 30,60,90, etc.
 
 Feature updates:
