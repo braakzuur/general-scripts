@@ -1,5 +1,5 @@
 #Clear Windows update issues
-#James Holmes
+#braak
 #Updated: 2024-10-18
 #
 #This script must be run as administrator or run in elevated command prompt
