@@ -1,8 +1,10 @@
-#Clear Windows update issues
-#braak
-#Updated: 2024-10-18
+# Clear Windows update issues
+# James Holmes
+# Updated: 2024-10-18
 #
-#This script must be run as administrator or run in elevated command prompt
+# This script must be run as administrator or run in elevated command prompt
+# Run: Set-ExecutionPolicy Bypass -Force 
+
 
 if (([System.Security.Principal.WindowsPrincipal] [System.Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)){
 	#Clear Screen
